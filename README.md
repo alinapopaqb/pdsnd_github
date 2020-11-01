@@ -5,7 +5,7 @@ This project was created on 1st of November.
 Bikeshare Prediction Project
 
 ### Description
-This project is about learning git in a fun way.
+This project is about using the bikeshare dataset in order to extract mobility insights.
 
 
 ### Files used
