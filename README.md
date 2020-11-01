@@ -1,11 +1,11 @@
 ### Date created
-This project was created on 1st of November
+This project was created on 1st of November.
 
 ### Project Title
 Bikeshare Prediction Project
 
 ### Description
-This project is about learning git in a fun way
+This project is about learning git in a fun way.
 
 
 ### Files used
@@ -14,4 +14,4 @@ The files used are:
 
 
 ### Credits
-Thank you Udacity and it's mentors :)
+Thank you Udacity and it's mentors :).
