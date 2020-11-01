@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on 1st of November
 
 ### Project Title
-Replace the Project Title
+Bikeshare Prediction Project
 
 ### Description
-Describe what your project is about and what it does
+This project is about learning git in a fun way
+
 
 ### Files used
-Include the files used
+The files used are:
+`bikeshare_2.py`
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thank you Udacity and it's mentors :)
